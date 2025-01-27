@@ -1,0 +1,20 @@
+# Notes
+
+"bitcoin-cli help" lists commands
+"bitcoin-cli help <command>" is very useful
+You can also pass a verbosity level to a getrawtransaction,
+  to get a JSON object
+
+# Progress
+
+DONE:
+1- DONE
+2 - DONE
+3 - DONE - Had to pass a verbosity level argument to getblock in order to get transaction outputs
+4 - DONE
+5 - DONE
+6 - DONE
+7 - DONE
+
+TODO:
+8 -
